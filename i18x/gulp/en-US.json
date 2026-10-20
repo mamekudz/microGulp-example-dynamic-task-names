@@ -1,0 +1,13 @@
+{
+	"Prepared the example scaffold with its own release history; implementation is pending.<context=\"release info\"/>": "Prepared the example scaffold with its own release history; implementation is pending.",
+	"Added a distinct example project title and bundled microGulp logo.<context=\"release info\"/>": "Added a distinct example project title and bundled microGulp logo.<context=\"release info\"/>",
+	"Implemented live release metadata and a persistent demo counter with stable CLI task names.<context=\"release info\"/>": "Implemented live release metadata and a persistent demo counter with stable CLI task names.",
+	"Version <version/> | Counter <counter/><context=\"example log\"/>": "Version <version/> | Counter <counter/>",
+	"Example V<version/> | <counter/><context=\"µDisplayName\"/>": "Example V<version/> | <counter/>",
+	"Example V<version/><context=\"µDisplayName\"/>": "Example V<version/>",
+	"Example | <counter/><context=\"µDisplayName\"/>": "Example | <counter/>",
+	"Example<context=\"µDisplayName\"/>": "Example",
+	"Dynamic task names<context=\"µGroup\"/>": "Dynamic task names",
+	"Advance example counter<context=\"µDisplayName\"/>": "Advance example counter",
+	"Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation.<context=\"release info\"/>": "Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation."
+}

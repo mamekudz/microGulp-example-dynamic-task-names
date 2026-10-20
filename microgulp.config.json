@@ -1,0 +1,15 @@
+{
+	"project": {
+		"title": "µGulp Example: Dynamic Task Names",
+		"description": "µGulp Recipes - dynamic-task-names",
+		"logo": "./assets/microgulp-logo.png"
+	},
+	"metadataWatchFiles": [
+		"RELEASES.json",
+		"example.json",
+		".example-state/status.json"
+	],
+	"versionSources": [
+		"RELEASES.json"
+	]
+}

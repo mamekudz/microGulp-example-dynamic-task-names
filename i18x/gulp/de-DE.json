@@ -1,0 +1,12 @@
+{
+	"Prepared the example scaffold with its own release history; implementation is pending.<context=\"release info\"/>": "Beispielgerüst mit eigener Versionshistorie vorbereitet; Implementierung steht aus.",
+	"Implemented live release metadata and a persistent demo counter with stable CLI task names.<context=\"release info\"/>": "Aktuelle Release-Metadaten und gespeicherten Beispielzähler bei stabilen CLI-Tasknamen ergänzt.",
+	"Version <version/> | Counter <counter/><context=\"example log\"/>": "Version <version/> | Zähler <counter/>",
+	"Example V<version/> | <counter/><context=\"µDisplayName\"/>": "Beispiel V<version/> | <counter/>",
+	"Example V<version/><context=\"µDisplayName\"/>": "Beispiel V<version/>",
+	"Example | <counter/><context=\"µDisplayName\"/>": "Beispiel | <counter/>",
+	"Example<context=\"µDisplayName\"/>": "Beispiel",
+	"Dynamic task names<context=\"µGroup\"/>": "Dynamische Tasknamen",
+	"Advance example counter<context=\"µDisplayName\"/>": "Beispielzähler erhöhen",
+	"Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation.<context=\"release info\"/>": "Dashboard-Kurztasten mit eigener macOS-Belegung und Bedienhinweisen ergänzt."
+}
