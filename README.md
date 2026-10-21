@@ -43,7 +43,7 @@ SHOW_STATUS.µKeyBinding = { key: 'ctrl+shift+F7', mac: 'cmd+shift+F7' };
 ```
 
 <!-- blog-publication:start -->
-Artikel: [Deutsch](https://microgulp.dev/blogs/dynamic-task-names)
+Artikel: [Deutsch](https://microgulp.dev/de/blog/dynamic-task-names/)
 
 Weitere Beispiele: [microGulp-Examples](https://github.com/mamekudz/microGulp-Examples).
 <!-- blog-publication:end -->
